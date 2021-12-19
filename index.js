@@ -110,10 +110,6 @@ let deal = async function () {
 
       let name = path.basename(image).toUpperCase().replace(".PNG", "");
       // console.log(image, name)
-      if (count > 300) {
-        break;
-      }
-
       let attributes = [];
       // console.log("name", name)
       for (let index = 0; index < 13; index++) {
@@ -141,6 +137,9 @@ let deal = async function () {
       await fs.copyFile(image, path.join(FinalPicDirPath, `${count}.png`));
       statisticData[image] = `${count}.png`;
       count++;
+      if(count % 100 == 0) {
+        console.log("已处理 " + count + " 张图片")
+      }
     }
     statisticData.count = count - 1;
     await fs.writeJSON(path.join(FinalDirPath, `statisticData.json`), statisticData, { spaces: 4 });
