@@ -142,7 +142,7 @@ let deal = async function () {
       statisticData[image] = `${count}.png`;
       count++;
     }
-    statisticData.count = count;
+    statisticData.count = count - 1;
     await fs.writeJSON(path.join(FinalDirPath, `statisticData.json`), statisticData, { spaces: 4 });
     await fs.writeJSON(path.join(FinalDirPath, `statisticPosition.json`), statisticPosition, { spaces: 4 });
     await fs.writeJSON(path.join(FinalDirPath, `statisticOption.json`), statisticOption, { spaces: 4 });
