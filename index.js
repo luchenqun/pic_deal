@@ -4,6 +4,9 @@ const ImageDirPath = "./images";
 const FinalDirPath = "./final";
 const FinalPicDirPath = "./final/pic";
 const FinalJsonDirPath = "./final/json";
+const Final1000PicDirPath = "./final/presaleNFT/pic";
+const Final1000JsonDirPath = "./final/presaleNFT/json";
+
 const MapTraitType = {
   0: "background",
   1: "skin",
@@ -99,6 +102,8 @@ let deal = async function () {
   await fs.ensureDir(FinalDirPath);
   await fs.ensureDir(FinalPicDirPath);
   await fs.ensureDir(FinalJsonDirPath);
+  await fs.ensureDir(Final1000PicDirPath);
+  await fs.ensureDir(Final1000JsonDirPath);
 
   // 初始化统计数据
   for (const key in MapTraitType) {
@@ -148,9 +153,13 @@ let deal = async function () {
         description: "description of NFT",
         name: `Name #${count}`,
       };
-
-      await fs.writeJSON(path.join(FinalJsonDirPath, `${count}.json`), json, { spaces: 4 });
-      await fs.copyFile(image, path.join(FinalPicDirPath, `${count}.png`));
+      if(count <= 1000) {
+        await fs.writeJSON(path.join(Final1000JsonDirPath, `${count}`), json, { spaces: 4 });
+        await fs.copyFile(image, path.join(Final1000PicDirPath, `${count}.png`));
+      } else {
+        await fs.writeJSON(path.join(FinalJsonDirPath, `${count}`), json, { spaces: 4 });
+        await fs.copyFile(image, path.join(FinalPicDirPath, `${count}.png`));
+      }
       statisticData[image] = `${count}.png`;
       count++;
       if (count % 100 == 0) {
