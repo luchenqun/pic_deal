@@ -1,6 +1,6 @@
 const fs = require("fs-extra");
 const path = require("path");
-const ImageDirPath = "../PIC";
+const ImageDirPath = "./images";
 const FinalDirPath = "./final";
 const FinalPicDirPath = "./final/pic";
 const FinalJsonDirPath = "./final/json";
@@ -83,6 +83,15 @@ function readFileList(dir, filesList = []) {
   return filesList;
 }
 
+function shuffleSwap(arr) {
+  var len = arr.length;
+  for (var i = 0; i < len; i++) {
+    var rand = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[rand]] = [arr[rand], arr[i]];
+  }
+  return arr;
+}
+
 let deal = async function () {
   await fs.emptyDir(FinalDirPath);
   await fs.ensureDir(FinalDirPath);
@@ -102,6 +111,7 @@ let deal = async function () {
   try {
     let images = [];
     readFileList(ImageDirPath, images);
+    shuffleSwap(images)
     let count = 1;
     for (const image of images) {
       if (!image.toUpperCase().endsWith(".PNG")) {
@@ -137,7 +147,7 @@ let deal = async function () {
       await fs.copyFile(image, path.join(FinalPicDirPath, `${count}.png`));
       statisticData[image] = `${count}.png`;
       count++;
-      if(count % 100 == 0) {
+      if (count % 100 == 0) {
         console.log("已处理 " + count + " 张图片")
       }
     }
