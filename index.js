@@ -77,7 +77,9 @@ function readFileList(dir, filesList = []) {
     if (stat.isDirectory()) {
       readFileList(path.join(dir, item), filesList); //递归读取文件
     } else {
-      filesList.push(fullPath);
+      if (fullPath.toUpperCase().endsWith(".PNG")) {
+        filesList.push(fullPath)
+      }
     }
   });
   return filesList;
@@ -112,6 +114,10 @@ let deal = async function () {
     let images = [];
     readFileList(ImageDirPath, images);
     shuffleSwap(images)
+    if (images.length == 0) {
+      console.log("请将所有图片放到images目录")
+    }
+
     let count = 1;
     for (const image of images) {
       if (!image.toUpperCase().endsWith(".PNG")) {
@@ -155,6 +161,7 @@ let deal = async function () {
     await fs.writeJSON(path.join(FinalDirPath, `statisticData.json`), statisticData, { spaces: 4 });
     await fs.writeJSON(path.join(FinalDirPath, `statisticPosition.json`), statisticPosition, { spaces: 4 });
     await fs.writeJSON(path.join(FinalDirPath, `statisticOption.json`), statisticOption, { spaces: 4 });
+    console.log("已全部处理完毕放入final目录，总共处理" + (count - 1) + "张图片")
   } catch (error) {
     console.log("error", error);
   }
