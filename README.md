@@ -5,3 +5,5 @@
 最后，执行 node index.js 进行处理。处理过后的图片以及统计文件都放在final目录下面。
 
 如果有需要，可以修改 index.js 中三个变量 MapTraitType，ValutTypeIndex，ValueType的值。
+
+执行 node json.js 处理文件的替换
