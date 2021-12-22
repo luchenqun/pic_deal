@@ -149,14 +149,15 @@ let deal = async function () {
 
       let json = {
         attributes,
-        image: `ipfs://QmYWLWUFTXyK7i29ragN7YvCKCNBHJxeadsfgca7TtbUc9/${count}.png`,
-        description: "description of NFT",
-        name: `Name #${count}`,
+        description: "NightWorld is a world of supernatural horror and intrigue hidden in plain sight. Here, vampires, werewolves, and many other creatures live among us, concealed in the shadows. Vampire Clan is a collection of 10,894 hand-painted unique vampire NFTs. They are randomly generated and stored as ERC-721 tokens on the Ethereum Blockchain!",
+        name: `Vampire #${count}`,
       };
       if(count <= 1000) {
+        json.image = `ipfs://QmUPxZwPbXMRVnCvmA5kxbiQKw9eFF25e2L25uq1qrCtoP/${count}.png`
         await fs.writeJSON(path.join(Final1000JsonDirPath, `${count}`), json, { spaces: 4 });
         await fs.copyFile(image, path.join(Final1000PicDirPath, `${count}.png`));
       } else {
+        json.image = `ipfs://QmWX5AoMTeG6pZAdVgcst5XoxnZxqvNBaXtomotPmBuwCK/${count}.png`
         await fs.writeJSON(path.join(FinalJsonDirPath, `${count}`), json, { spaces: 4 });
         await fs.copyFile(image, path.join(FinalPicDirPath, `${count}.png`));
       }
