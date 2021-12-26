@@ -1,0 +1,401 @@
+废墟黄色背景
+废墟灰色背景
+废墟红色背景
+废墟紫色背景
+废墟绿色背景
+橙色背景
+红色背景
+黄色背景
+蓝色背景
+深蓝色背景
+绿色背景
+紫色背景
+黑夜蝙蝠
+黑夜狼眼
+战场(黄)
+战场(红)
+绿色森林
+灰色森林
+紫色教堂
+灰色教堂
+宴厅(紫)
+宴厅(红)
+宴厅(灰)
+战场(紫)
+
+老人 方形胡
+老人 卷胡
+老人络腮胡
+年轻人 卷胡
+年轻人 络腮胡
+树皮
+老人头
+正常脸
+
+西装（绿色）
+西装（褐色
+西装（蓝色）
+西装 T恤（橙色
+西装 T恤（黄色）
+西装 T恤（紫色）
+背心
+夹克(蓝色)
+夹克(蓝色)
+正规西装(褐色)
+正规西装（蓝色）
+绿色毛衣
+毛大衣
+格子衣服(粉紫色)
+格子衣服(蓝色)
+格子衣服(绿色)
+格子衣服（灰色）
+披风
+卫衣
+卫衣(粉色)
+卫衣(绿色)
+卫衣(紫色)
+T恤(绿色)
+T恤(紫色)
+
+蝴蝶
+甲壳虫
+骷髅头
+玫瑰花
+鸟羽毛
+血色蝴蝶
+血色羽毛
+海马
+
+绿色眼睛
+蓝色眼睛
+红色眼睛
+紫色眼睛
+机械眼
+猫眼睛
+流血眼睛
+
+舌头
+雪茄
+香烟
+狼牙
+
+电锯惊魂 面具
+狐狸面具
+口罩
+脸部装饰（血液）
+面具(红)
+面具(绿)
+面具(紫)
+面具（灰）
+三眼
+鱼骨刺青
+异形刺青
+A字刺青
+十字纹身
+小丑面具
+墨镜
+v字(红)
+v字(蓝绿)
+v字(绿)
+v字灰
+
+爆炸头（红）
+爆炸头(蓝)
+爆炸头(绿)
+爆炸头(紫)
+爆炸头黑色
+背头（红）
+背头（黄）
+背头（蓝）
+背头（绿）
+背头（银）
+刀锋头
+卷发（黑）
+卷发（红）
+卷发（蓝）
+三七分（红） 
+三七分（蓝） 
+三七分（绿） 
+三七分（紫） 
+闪电头(红色)
+闪电头(绿色)
+闪电头银色
+
+鸭舌帽(橙)
+鸭舌帽(红)
+鸭舌帽(绿)
+鸭舌帽(紫)
+鸭舌帽黑
+皇冠（红）
+皇冠（黄）
+皇冠（金）
+皇冠（蓝绿）
+皇冠（绿）
+皇冠（银）
+皇冠（紫）
+报童帽(蓝)
+报童帽(绿)
+报童帽(紫)
+报童帽（红）
+风帽(红)
+风帽(绿)
+风帽(紫)
+军帽(黄)
+军帽(蓝)
+军帽(灰色)
+礼帽棕色
+圣诞帽
+礼帽黑色
+礼帽绿色
+礼帽紫色
+透明
+
+普通耳朵 
+普通耳朵(带耳环)
+缺耳 (带耳环)
+缺耳
+
+白银斧头
+白银斧头2
+白银斧头3
+尖刀1
+尖刀2
+鞭子
+斧头1
+斧头2
+红酒杯1
+红酒杯2
+画笔
+钱包
+骷髅手杖
+猫爪
+玫瑰花
+魔法棒
+红魔法瓶
+书
+小提琴
+小提琴2
+红魔法瓶 星光
+蓝魔法瓶 星光
+蓝魔法瓶 星光
+
+青蛙
+蝎子
+黑色蝙蝠
+无毛猫
+红色蝙蝠
+狼头
+乌鸦
+蜥蜴
+蜘蛛
+
+阿萨迈
+布鲁赫
+茨密西
+梵卓
+冈格罗
+勒森布拉
+雷弗诺
+迈卡维安
+诺菲勒
+乔凡尼
+瑞默尔
+托瑞多
+羲太
+
+废墟黄色背景 Ruins yellow background
+废墟灰色背景 Ruins gray background
+废墟红色背景 Ruins red background
+废墟紫色背景 Ruins purple background
+废墟绿色背景 Ruins green background
+橙色背景 Orange background
+红色背景 Red background
+黄色背景 Yellow background
+蓝色背景 Blue background
+深蓝色背景 Dark blue background
+绿色背景 Green background
+紫色背景 Purple background
+黑夜蝙蝠 Night bat
+黑夜狼眼 Black night wolf eye
+战场(黄) Battlefield (yellow)
+战场(红) Battlefield (red)
+绿色森林 Green forest
+灰色森林 Gray forest
+紫色教堂 Purple church
+灰色教堂 Gray church
+宴厅(紫) Ballroom (purple)
+宴厅(红) Ballroom (red)
+宴厅(灰) Ballroom (ash)
+战场(紫) Battlefield (purple)
+老人 方形胡 Senior man
+老人 卷胡 Old people roll
+老人络腮胡 Old man
+年轻人 卷胡 Young man roll
+年轻人 络腮胡 Young people
+树皮 Bark
+老人头 Old man
+正常脸 Normal face
+西装（绿色） Suit (green)
+西装（褐色 Suit (brown
+西装（蓝色） Suit (blue)
+西装 T恤（橙色 Suit T-shirt (orange
+西装 T恤（黄色） Suit T-shirt (yellow)
+西装 T恤（紫色） Suit T-shirt (purple)
+背心 Vest
+夹克(蓝色) Jacket (blue)
+夹克(蓝色) Jacket (blue)
+正规西装(褐色) Regular suit (brown)
+正规西装（蓝色） Regular suit (blue)
+绿色毛衣 Green sweater
+毛大衣 Coat
+格子衣服(粉紫色) Plaid clothing (powder purple)
+格子衣服(蓝色) Plaid clothing (blue)
+格子衣服(绿色) Plaid clothes (green)
+格子衣服（灰色） Plaid clothes (gray)
+披风 cloak
+卫衣 Hoodie
+卫衣(粉色) Sweater (pink)
+卫衣(绿色) Sweater (green)
+卫衣(紫色) Sweater (purple)
+T恤(绿色) T-shirt (green)
+T恤(紫色) T-shirt (purple)
+蝴蝶 Butterfly
+甲壳虫 Beetle
+骷髅头 Skull
+玫瑰花 Rose
+鸟羽毛 Bird feather
+血色蝴蝶 Bloody butterfly
+血色羽毛 Bloody feather
+海马 Hippocampus
+绿色眼睛 Green eyes
+蓝色眼睛 Blue eye
+红色眼睛 Red eye
+紫色眼睛 Purple eye
+机械眼 Mechanical eye
+猫眼睛 Cat eyes
+流血眼睛 Bleeding
+舌头 Tongue
+雪茄 cigar
+香烟 cigarette
+狼牙 Wolf teeth
+电锯惊魂 面具 Chain saw
+狐狸面具 Fox mask
+口罩 Facial mask
+脸部装饰（血液） Face decoration (blood)
+面具(红) Mask (red)
+面具(绿) Mask (green)
+面具(紫) Mask (purple)
+面具（灰） Mask (ash)
+三眼 Three eye
+鱼骨刺青 Fish bone tattoo
+异形刺青 Heteropathy
+A字刺青 A word tattoo
+十字纹身 Cross tattoo
+小丑面具 clown mask
+墨镜 sunglasses
+v字(红) v word (red)
+v字(蓝绿) v word (blue green)
+v字(绿) v word (green)
+v字灰 V word gray
+爆炸头（红） Explosion head (red)
+爆炸头(蓝) Explosion head (blue)
+爆炸头(绿) Explosion head (green)
+爆炸头(紫) Explosion head (purple)
+爆炸头黑色 Black
+背头（红） Head (red)
+背头（黄） Hind (yellow)
+背头（蓝） Back (blue)
+背头（绿） Head (green)
+背头（银） Contrary (silver)
+刀锋头 Blade
+卷发（黑） Curl (black)
+卷发（红） Curly hair (red)
+卷发（蓝） Curly hair (blue)
+三七分（红）  37 points (red)
+三七分（蓝）  37 points (blue)
+三七分（绿）  37 points (green)
+三七分（紫）  37 points (purple)
+闪电头(红色) Lightning head (red)
+闪电头(绿色) Lightning head (green)
+闪电头银色 Lightning head silver
+鸭舌帽(橙) Duck cap (orange)
+鸭舌帽(红) Duckle cap (red)
+鸭舌帽(绿) Duck cap (green)
+鸭舌帽(紫) Duck cap (purple)
+鸭舌帽黑 Duck tongue
+皇冠（红） Crown (red)
+皇冠（黄） Crown (yellow)
+皇冠（金） Crown (gold)
+皇冠（蓝绿） Crown (blue green)
+皇冠（绿） Crown (green)
+皇冠（银） Crown (silver)
+皇冠（紫） Crown (purple)
+报童帽(蓝) Report children's cap (blue)
+报童帽(绿) Report children's cap (green)
+报童帽(紫) Report children's cap (purple)
+报童帽（红） Report children's cap (red)
+风帽(红) Cap (red)
+风帽(绿) Cap (green)
+风帽(紫) Cap (purple)
+军帽(黄) Military hat (yellow)
+军帽(蓝) Military cap (blue)
+军帽(灰色) Military cap (gray)
+礼帽棕色 Hat brown
+圣诞帽 Christmas hat
+礼帽黑色 Hat black
+礼帽绿色 Green hat
+礼帽紫色 Hat purple
+透明 transparent
+普通耳朵  Ordinary ear
+普通耳朵(带耳环) Ordinary ear (with earrings)
+缺耳 (带耳环) Lack (with earrings)
+缺耳 Lack
+白银斧头 Silver ax
+白银斧头2 Silver ax 2
+白银斧头3 Silver ax 3
+尖刀1 Sharp knife 1
+尖刀2 Sharp knife 2
+鞭子 whip
+斧头1 Ax 1
+斧头2 Ax 2
+红酒杯1 Red wine glass 1
+红酒杯2 Red wine cup 2
+画笔 brush
+钱包 wallet
+骷髅手杖 Cane
+猫爪 Cat claw
+玫瑰花 Rose
+魔法棒 Magic stick
+红魔法瓶 Red magic bottle
+书 Book
+小提琴 violin
+小提琴2 Violin 2
+红魔法瓶 星光 Red magic bottle starlight
+蓝魔法瓶 星光 Blue magic bottle starlight
+蓝魔法瓶 星光 Blue magic bottle starlight
+青蛙 frog
+蝎子 Scorpion
+黑色蝙蝠 Black bat
+无毛猫 Moof cat
+红色蝙蝠 Red bat
+狼头 Wolf head
+乌鸦 Crow
+蜥蜴 lizard
+蜘蛛 Spider
+阿萨迈 Assama
+布鲁赫 Bruce
+茨密西 Gitzi
+梵卓 Van Van
+冈格罗 Gongero
+勒森布拉 Lessbra
+雷弗诺 Reveno
+迈卡维安 McCavian
+诺菲勒 Novirle
+乔凡尼 Jo Fani
+瑞默尔 Rymer
+托瑞多 Torio
+羲太 Setites
+
+
+
+
