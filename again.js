@@ -40,20 +40,20 @@ const ValutTypeIndex = {
   C: "12",
   D: "13",
   E: "14",
-  F: "16",
-  G: "17",
-  H: "18",
-  I: "19",
-  J: "20",
-  K: "21",
-  L: "22",
-  M: "23",
-  N: "24",
-  O: "25",
-  P: "26",
-  Q: "27",
-  R: "28",
-  S: "29",
+  F: "15",
+  G: "16",
+  H: "17",
+  I: "18",
+  J: "19",
+  K: "20",
+  L: "21",
+  M: "22",
+  N: "23",
+  O: "24",
+  P: "25",
+  Q: "26",
+  R: "27",
+  S: "28",
 };
 
 const ValueType = {
@@ -317,6 +317,7 @@ let deal = async function () {
       }
 
       let name = path.basename(image).toUpperCase().replace(".PNG", "");
+
       // console.log(image, name)
       let attributes = [];
       // console.log("name", name)
@@ -325,7 +326,7 @@ let deal = async function () {
         if (ch == 0) continue;
         const valueList = ValueType[index];
         const trait_type = MapTraitType[index];
-        const value = valueList[ValutTypeIndex[ch] - 1];
+        const value = valueList[parseInt(ValutTypeIndex[ch]) - 1];
         if (value) {
           statisticPosition[trait_type]++;
           statisticOption[value]++;

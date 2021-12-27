@@ -7,3 +7,5 @@
 如果有需要，可以修改 index.js 中三个变量 MapTraitType，ValutTypeIndex，ValueType的值。
 
 执行 node json.js 处理文件的替换
+
+执行 node again.js 处理已经处理过的文件
